@@ -231,7 +231,7 @@ https://youtu.be/cXxfYd92_Co?si=Tu-ZKQmLVCKWHZN0
 
 Many of you are asking about the password and truth be told too many people will misuse this for nefarious purposes regardless of any warnings against it. If you are a developer or wish to tinker around with your own equipment you can get in touch and we can discuss and I may just grant you access.
 
-Official dev site https://flipper-grabber.dev (no afflication to flipperc0d3r) here you can find a paid license version should you choose the blue pill
+Official dev site https://flipper-grabber.dev (no affliation to flipperc0d3r) here you can find a paid license version should you choose the blue pill
 
 ![matrix](https://github.com/user-attachments/assets/0f6e332d-ca0e-455a-b776-77add66408a4)
 
